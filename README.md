@@ -8,4 +8,4 @@ $ git diff [file]
 $ git diff --staged [file]
 $ git checkout -- [file]
 $ git reset [file]
-$ git commit -m
+$ git commit -m “[descriptive message]”
